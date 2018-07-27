@@ -62,7 +62,7 @@
     "victory-brush-container": "^30.0.0",
     "victory-brush-line": "^30.0.0",
     "victory-candlestick": "^30.0.0",
-    "victory-chart": "^30.0.0",
+    "victory-chart": "git@github.com:izarov/victory-chart.git",
     "victory-core": "^30.0.0",
     "victory-create-container": "^30.0.0",
     "victory-cursor-container": "^30.0.0",
